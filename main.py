@@ -19,3 +19,5 @@ if choice1 == "1":
     sleep(1)
     game.clearTerminal()
     game.intro()
+    game.clearTerminal
+    
